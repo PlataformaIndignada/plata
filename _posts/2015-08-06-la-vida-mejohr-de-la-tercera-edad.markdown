@@ -3,6 +3,7 @@ layout: post
 title:  "La Vida MeJOHr de la Tercera Edad"
 date:   2015-08-06 14:00:00
 categories: Indignacion
+Author: Tomás Rodríguez
 ---
 
 Hoy tuve el gusto de conocer y estrechar la mano de don Fortín Amador, así fue como se me presentó este maltratado señor. Un ancianito desvalido, en silla de ruedas, casi sin dientes, con la vista y el oído afectados de alguna forma. Le costaba enfocarme y escucharme, tenía que alzar mi voz para que captara lo que le decía y preguntaba.
