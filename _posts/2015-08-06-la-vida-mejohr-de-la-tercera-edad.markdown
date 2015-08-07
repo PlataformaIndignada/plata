@@ -3,7 +3,7 @@ layout: post
 title:  "La Vida MeJOHr de la Tercera Edad"
 date:   2015-08-06 14:00:00
 categories: Indignacion
-Author: Tomás Rodríguez
+Author: "Tomás Rodríguez"
 ---
 
 Hoy tuve el gusto de conocer y estrechar la mano de don Fortín Amador, así fue como se me presentó este maltratado señor. Un ancianito desvalido, en silla de ruedas, casi sin dientes, con la vista y el oído afectados de alguna forma. Le costaba enfocarme y escucharme, tenía que alzar mi voz para que captara lo que le decía y preguntaba.
@@ -18,5 +18,13 @@ Miles de casos como ese y peores se ven a diario en nuestra sociedad orillada a 
 No desfallezcamos amigas y amigos, entreguemos nuestro corazón y nuestra mente, nuestro esfuerzo y nuestra vida; para que volvamos por don Fortín, por nuestras ancianas y ancianos, por nuestras etnias, por nuestros hijos e hijas y nietos, por toda la dignidad humana. Volvamos como un ejército de lucha por la justicia.
 
 ¡Volvamos multiplicados de dignidad y lucha!¡Ánimo, aquí nadie se rinde, carajo!
+
+
+![alt text](https://scontent-lga1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11796351_10155916428030593_8592514702201428551_n.jpg?oh=5c0f9fff3b717ccd95a21b263cc34990&oe=564DC6BC "Tercera Edad en vida mejohr")
+
+
+![alt text](https://scontent-lga1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11825791_10155916428165593_764433560706739707_n.jpg?oh=84ea1941fc336347a0e2328f4128b12c&oe=563C6A46 "Tercera Edad en vida mejohr")
+
+
 
 Tomás Rodríguez
