@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plataforma Indignada</title>
+    <description>La Plataforma Indignada, es un medio por cual se busca la articulación del movimiento civico nacional de indignados en Honduras
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Aug 2015 08:37:57 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2015 08:37:57 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>La Vida MeJOHr de la Tercera Edad</title>
+        <description>&lt;p&gt;Hoy tuve el gusto de conocer y estrechar la mano de don Fortín Amador, así fue como se me presentó este maltratado señor. Un ancianito desvalido, en silla de ruedas, casi sin dientes, con la vista y el oído afectados de alguna forma. Le costaba enfocarme y escucharme, tenía que alzar mi voz para que captara lo que le decía y preguntaba.&lt;/p&gt;
+
+&lt;p&gt;Pueden ustedes ver ese solazo que caía a las 10 de la mañana. Ya se imaginarán ahorita a las 11, a las 12, y la inclemencia de la 1 de la tarde.
+Lo noté cuando venía del anillo periférico por el desvío a Unitec, y me pregunté,¿estará solo?¿tendrá agua?¿tendrá algo qué comer? Fui a hacer mi mandado y al regresar volví a pasar. Él seguía en la misma posición, con sus brazitos curtidos por el sol, su cabeza reclinada sobre su pecho, como si estuviera desmayado.
+Fui a casa, llené un bote con agua, busqué una guayaba, y alisté un dinerito para ír a dejárselo. Me bajé cerca de donde estaba, le tomé estas fotos y observé por unos minutos la indiferencia con la que se estacionaban momentáneamente los carros y motos en tres puntos a su alrededor. Él no existe, es un poste, una piedra, un arbusto más en la urbanidad. Crucé la calle y me senté en la acera a su lado, ni me notó, volteó su rostro hasta que le pregunté cómo estaba. “Muy bien gracias a dios. ¿y usted mijo?”, me dijo. Me atragantó ver ya su cara, quemada por el sol, sus ojos nublados, pero con una sonrisa de lado a lado, con sus dientes intercalados.&lt;/p&gt;
+
+&lt;p&gt;Le pregunté si tenía agua, me dijo que no, le pregunté si tenía comida, me dijo que no, le pregunté que si tenía como irse, y me dijo que siempre alguien le ayudaba a empujar su silla de ruedas para irse de regreso, no le pregunté a dónde… Busqué el agua y la guayaba y le metí el billete en su mano. Me agradeció como sabe agradecer el corazón de la gente necesitada, me abrazó y me dijo entre muchas otras cosas: “Que diosito me lo cuide y me lo proteja, a usted y su mochilita”. Le dije que volvería, espero que siga bien, como él dice, y que mejore su situación.
+Miles de casos como ese y peores se ven a diario en nuestra sociedad orillada a la desgracia. La manera como vive la ancianidad en una sociedad, nos da una perspectiva muy certera de cuán desgraciada está tal sociedad.&lt;/p&gt;
+
+&lt;p&gt;No desfallezcamos amigas y amigos, entreguemos nuestro corazón y nuestra mente, nuestro esfuerzo y nuestra vida; para que volvamos por don Fortín, por nuestras ancianas y ancianos, por nuestras etnias, por nuestros hijos e hijas y nietos, por toda la dignidad humana. Volvamos como un ejército de lucha por la justicia.&lt;/p&gt;
+
+&lt;p&gt;¡Volvamos multiplicados de dignidad y lucha!¡Ánimo, aquí nadie se rinde, carajo!&lt;/p&gt;
+
+&lt;p&gt;Tomás Rodríguez&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2015 14:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/indignaci%C3%B3n/2015/08/06/la-vida-mejohr-de-la-tercera-edad.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/indignaci%C3%B3n/2015/08/06/la-vida-mejohr-de-la-tercera-edad.html</guid>
+        
+        
+        <category>indignación</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome To Jekyll</title>
+        <description>&lt;p&gt;–
+layout: post
+title:  “Welcome to Jekyll!”
+date:   2015-08-06 22:59:44
+categories: jekyll update
+—
+You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/08/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/08/06/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
