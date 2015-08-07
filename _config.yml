@@ -5,8 +5,10 @@ description: >
  La Plataforma Indignada, es un medio por cual se busca la articulación del movimiento civico nacional de indignados en Honduras
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-timezon: America/Tegucigalpa
+
+facebook_user_name: plataformaindignada
+
+timezone: America/Tegucigalpa
 
 # Build settings
 markdown: kramdown
