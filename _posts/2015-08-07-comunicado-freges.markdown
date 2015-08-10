@@ -5,6 +5,9 @@ date:   2015-08-07 17:00:00
 categories: Proclama
 Author: "FREGES"
 ---
+
+<meta property="og:image" content="/Assets/img/soadhan.jpg" />
+
 #Comunicado
 
 El estudiantado en general aglutinado en el Frente Revolucionario de Grupos Estudiantiles -FREGES- inform a la y el estudiante, padres y madres de familia, profesores y pueblo en general:
