@@ -30,6 +30,6 @@ UNAH, UPNFM, Secundaria, es el momento de unificar nuestras luchas y luchar por 
 
 JOH LOS MATO… VIVAN LAS Y LOS ESTUDIANTES.
 
-![alt text]({{site.baseurl//Assets/img/soadhan.jpg}} "Soad Vive!!")
+![Soad Vive](/Assets/img/soadhan.jpg "Soad Vive!!")
 
 #Frente Revolucionario de Grupos Estudiantiles
