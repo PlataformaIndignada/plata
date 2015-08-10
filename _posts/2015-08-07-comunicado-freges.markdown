@@ -4,7 +4,7 @@ title:  "Comunicado FREGES"
 date:   2015-08-07 17:00:00
 categories: Proclama
 Author: "FREGES"
-image: "/Assets/img/soadhan.jpg"
+image: "Assets/img/soadhan.jpg"
 ---
 
 
