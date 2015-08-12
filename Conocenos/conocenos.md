@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Conócenos
+layout: post
+title: "Acerca"
 permalink: /Conocenos/
 ---
 PLATAFORMA INDIGNADA
