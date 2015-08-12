@@ -1,45 +1,37 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
+<footer class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
+        <span class="point"> · </span>
+        
           
-         
-          <li>
-            <a href="https://www.facebook.com/{{ site.data.social.facebook_user_name }}">
-              <span class="icon  icon">
-                
-                
-                <i class="fa fa-facebook-square"></i>
-              </span>
-
-              
-            </a>
-          </li>
+          <a href="https://www.facebook.com/plataformaindignada">
+            
+            <i class="fa fa-facebook-square fa-lg"></i>
+          </a>
           
-        </ul>
-      </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+          <span class="point"> · </span>
+          <a href="http://www.youtube.com/c/PlataformaIndignadaHonduras">
+            
+           <i class="fa fa-youtube fa-lg"></i>
+          </a>
+          <span class="point"> · </span>
+          <span><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></span>
+          <span class="point"> · </span>
+          <span>{{ site.description }}</span>
+          <span class="point"> · </span>
+          <span>&copy; 2015 Gaohaoyang</span>
+          <span class="point"> · </span>
+          <span>Designed by <a href="https://github.com/Gaohaoyang">HyG</a></span>
+
       </div>
     </div>
-
-
   </div>
 
-  <script>
+  
+   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -49,5 +41,5 @@
   ga('send', 'pageview');
 
 </script>
-
+  
 </footer>
