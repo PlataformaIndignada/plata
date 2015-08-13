@@ -25,7 +25,7 @@ Los miembros de la Plataforma Indignada, hacemos conocer al público en general 
 
  
 
-5. Nadie está autorizado a hablar en nombre de la Plataforma Indignada o a presentarse en medios de comunicación como “representante” de la misma ya que consideramos que el proyecto y batallas emprendidas rebasan los vanos intentos de figurar, personales o de intereses de grupo.
+5. Nadie está autorizado a hablar en nombre de la Plataforma Indignada o a presentarse en medios de comunicación como “representante” de la misma ya que consideramos que el proyecto y batallas emprendidas rebasan los vanos intentos de figurar, de intereses personales o de grupo.
 
 
 Plataforma Indignada
