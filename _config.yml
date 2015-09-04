@@ -8,7 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.plataformaindignada-fuerajoh.site/" # the base hostname & protocol for your site
 
 
-
 timezone: America/Tegucigalpa
 
 # Build settings
